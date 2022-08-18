@@ -7,8 +7,7 @@ A programmer who loves learning how to make use of acquired skills, knowledge, a
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and nodejs.
+- 💡 Fun fact: I'm currently studying Software Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, or Fullstack web2/web3 developer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing samuelchristiana38@gmail.com.
